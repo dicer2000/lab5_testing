@@ -1,3 +1,9 @@
+// Vehicle Prototype Jest testing library
+// by Brett Huffman
+// CSCI 324
+// Feb 13, 2025
+//
+
 const { Vehicle } = require("../vehicle_proto");
 
 describe("Vehicle Class (Prototype and Promises)", () => {
